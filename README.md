@@ -9,6 +9,11 @@
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?style=for-the-badge" alt="Android | iOS" />
 </p>
 
+<p align="center">
+  <img src="docs/screens.jpg" alt="Screens" width="100%"/>
+  <br/><sub>News feed · Category · Developer</sub>
+</p>
+
 ## 📖 About
 
 NewsCloud is a news reader built while learning REST APIs and slivers in Flutter. It fetches top US headlines from **NewsAPI** with **Dio**, lets you browse seven categories, and opens full articles in an in-app **WebView**. The home screen is a `CustomScrollView`, so the category strip and the article feed scroll together.
